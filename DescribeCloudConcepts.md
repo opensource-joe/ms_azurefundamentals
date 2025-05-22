@@ -55,3 +55,6 @@ What if you’re already established with VMware in a private cloud environment 
 
 ## Describe the consumption-based model
 
+Two types of expenditures when comparing IT infrastructure models:
+1. Capital Expenditure (CapEx)
+2. Operational Expenditure (OpEx)
