@@ -56,5 +56,34 @@ What if you’re already established with VMware in a private cloud environment 
 ## Describe the consumption-based model
 
 Two types of expenditures when comparing IT infrastructure models:
-1. Capital Expenditure (CapEx)
-2. Operational Expenditure (OpEx)
+
+1. Capital Expenditure (CapEx) - CapEx is typically a one-time, up-front expenditure to purchase or secure tangible resources. A new building, repaving the parking lot, building a datacenter, or buying a company vehicle are examples of CapEx.
+
+2. Operational Expenditure (OpEx) - OpEx is spending money on services or products over time. Renting a convention center, leasing a company vehicle, or signing up for cloud services are all examples of OpEx.
+
+Cloud computing falls under OpEx because cloud computing operates on a consumption-based model. With cloud computing, you don’t pay for the physical infrastructure, the electricity, the security, or anything else associated with maintaining a datacenter. Instead, you pay for the IT resources you use. If you don’t use any IT resources this month, you don’t pay for any IT resources.
+
+This consumption-based model has many benefits, including: no upfront costs, no need to purchase and manage costly infrastructure that users might not use to its fullest potential, the ability to pay for more resources when they're needed, and the ability to stop paying for resources that are no longer needed.
+
+Cloud computing is the delivery of computing services over the internet by using a pay-as-you-go pricing model. You typically pay only for the cloud services you use, which helps you: plan and manage your operating costs, run your infrastructure more efficiently, and scale as your business needs change.
+
+---
+
+## Knowledge check
+
+1. What is cloud computing? Delivery of computing services over the internet.
+2. Which cloud model uses some datacenters focused on providing cloud services to anyone that wants them, and some data centers that are focused on a single customer? Hybrid cloud
+3. According to the shared responsibility model, which cloud service type places the most responsibility on the customer? Infrastructure as a Service (IaaS)
+
+---
+
+## Additional resources
+
+TODO: Review the following article
+[Shared responsibility model in the cloud article](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
+
+TODO: Review the VMWare module
+[Introduction to Azure VMware Solution](https://learn.microsoft.com/en-us/training/modules/intro-azure-vmware-solution/)
+
+TODO: Review the Hybrid Cloud module
+[Introduction to Azure hybrid cloud services](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-hybrid-services/)
